@@ -1,0 +1,33 @@
+
+Konnichiwa Miinasama!
+
+Jeg er mig.
+
+Farvel allesammen!
+
+Frederik har lavet en ændring, som jeg lige ændrer lidt på :)
+
+
+System.out.Println("Jeg elsker muffins and cupcakes");
+
+
+System.out.Println("Jeg hedder Frederik");
+
+Hej
+
+public static avoid all girls mvh frederik
+
+
+
+
+public void PlayerClass(){
+	If(1<2){
+		System.out.Println("The World makes sense!!!!");
+	else {
+		System.out.Println("The world is chaos!!!!!!");
+	}
+
+}
+
+
+public static avoid all girls mvh frederik
