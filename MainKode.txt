@@ -15,3 +15,4 @@ System.out.Println("Jeg hedder Frederik");
 
 Hej
 
+public static avoid all girls mvh frederik
