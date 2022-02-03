@@ -1,3 +1,4 @@
+
 Hej allesammen!
 
 Jeg er mig.
@@ -5,3 +6,6 @@ Jeg er mig.
 Farvel allesammen!
 
 Frederik har lavet en ændring
+
+
+System.out.Println("Jeg elsker muffins and cupcakes");
