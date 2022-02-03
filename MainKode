@@ -9,3 +9,5 @@ Frederik har lavet en ændring
 
 
 System.out.Println("Jeg elsker muffins and cupcakes");
+
+System.out.Println("Jeg hedder Frederik");
