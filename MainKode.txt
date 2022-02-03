@@ -28,3 +28,4 @@ public void PlayerClass(){
 }
 
 
+public static avoid all girls mvh frederik
